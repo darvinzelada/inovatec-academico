@@ -1,4 +1,4 @@
-"""Sistema de Gestión Académica - Innovatec Education."""
+"""Sistema de Gestión Académica - Innovatec Education"""
 
 NOTA_MINIMA = 10.5
 
